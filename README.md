@@ -28,15 +28,23 @@ Alan AI is an advanced voice recognition platform that brings voice capabilities
 
 # Input Parameters
 Categories: Business, Entertainment, Health, Science, Sports, Technology, etc.
+
 Keywords: Search terms like "Smartphones" or "Donald Trump."
+
 Sources: News providers such as CNN, BBC, IGN, Buzzfeed, etc.
 
 # How It Works
+
 Users can interact with the app via the Alan AI voice assistant embedded in the interface.
+
 Voice commands are processed to fetch news either by the latest, categories, keywords, or sources.
+
 News articles are retrieved through the News API and displayed in a user-friendly interface.
-Sample Interface
-A clean and organized layout with sections for:
+
+# Sample Interface
+
+## A clean and organized layout with sections for:
+
 Latest News
 News by Categories
 News by Keywords
