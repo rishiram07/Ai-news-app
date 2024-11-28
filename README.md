@@ -46,9 +46,13 @@ News articles are retrieved through the News API and displayed in a user-friendl
 ## A clean and organized layout with sections for:
 
 Latest News
+
 News by Categories
+
 News by Keywords
+
 News by Sources
+
 Each section includes a voice instruction prompt to guide users for seamless interaction.
 
 
